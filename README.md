@@ -39,7 +39,6 @@ Program the ESP32 to read sensor data and send it to Blynk using virtual pin com
 | Label  | V2          | Integer    | Occupied slots        |
 | Label  | V3          | Integer    | Available slots       |
 
-<img width="1600" height="900" alt="Screenshot (510)" src="https://github.com/user-attachments/assets/dc65ac68-f43f-4d9e-9622-976b7f7d7097" />
 
 
 
