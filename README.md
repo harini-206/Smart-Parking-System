@@ -23,6 +23,8 @@ Design the dashboard in the Blynk app by adding widgets such as gauge, LED, and 
 
 Program the ESP32 to read sensor data and send it to Blynk using virtual pin communication.
 
+some screenshots of how it  created  it :
+
 <img width="894" height="596" alt="image" src="https://github.com/user-attachments/assets/29f46deb-ae25-414a-bfcd-1b2d8790f19a" />
 
 
