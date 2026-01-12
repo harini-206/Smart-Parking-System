@@ -23,6 +23,10 @@ Design the dashboard in the Blynk app by adding widgets such as gauge, LED, and 
 
 Program the ESP32 to read sensor data and send it to Blynk using virtual pin communication.
 
+<img width="1600" height="900" alt="Screenshot (513)" src="https://github.com/user-attachments/assets/b8ceef8d-c2cf-4b38-9ff1-c3c521cc472a" />
+<img width="1600" height="900" alt="Screenshot (512)" src="https://github.com/user-attachments/assets/5b418b65-c8bc-43b5-8db8-18f9b1d37d11" />
+<img width="1600" height="900" alt="Screenshot (511)" src="https://github.com/user-attachments/assets/33e89ec8-004d-4cf5-b08a-5026df6fd29d" />
+<img width="1600" height="900" alt="Screenshot (510)" src="https://github.com/user-attachments/assets/7b447833-8885-4680-95f6-b69fb7a5b4ea" />
 
 
 | Widget | Virtual Pin | Input Type | Purpose               |
@@ -31,6 +35,10 @@ Program the ESP32 to read sensor data and send it to Blynk using virtual pin com
 | LED    | V1          | Integer    | Slot occupancy status |
 | Label  | V2          | Integer    | Occupied slots        |
 | Label  | V3          | Integer    | Available slots       |
+
+<img width="1600" height="900" alt="Screenshot (510)" src="https://github.com/user-attachments/assets/dc65ac68-f43f-4d9e-9622-976b7f7d7097" />
+
+
 
 
 Upload the code to the ESP32, connect it to the internet, and monitor real-time data through the Blynk application.
